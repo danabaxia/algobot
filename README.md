@@ -1,0 +1,2 @@
+# algobot
+algo trading platform
